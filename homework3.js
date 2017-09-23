@@ -12,6 +12,7 @@ const a=function()
 const b=function(num1,num2)
 {
 	const num3=num1+num2;
+	console.log(numn3);
 }
 const fullName=function(firstName,lastName)
 {
